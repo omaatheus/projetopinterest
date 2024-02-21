@@ -45,5 +45,7 @@ Contribuições
 Sinta-se à vontade para contribuir com este projeto, enviando sugestões de melhorias ou corrigindo bugs.
 
 Contato
-
 Se você tiver alguma dúvida ou sugestão, entre em contato comigo através do meu email: matheuspereiradasilv@gmail.com
+
+Licença
+Este projeto está licenciado sob a licença MIT.
